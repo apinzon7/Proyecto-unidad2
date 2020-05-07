@@ -1,0 +1,22 @@
+.definicion{
+width: 800px;
+text-align: center;
+margin-left: 150px;
+padding-left: 100px;
+
+}
+
+.lista1 {
+    list-style: circle;
+    text-align: justify;
+}
+
+.lista2 {
+    list-style: circle;
+    text-align: justify;
+}
+
+.video{
+    margin-left: 150px;
+    padding-left: 150px;
+}
